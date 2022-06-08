@@ -5,11 +5,11 @@
     box-sizing: border-box;
 }
 
-main {
+main {    
+    margin: auto;
     background-color: #e7e7ec;
-    width: 370px;
-    height: auto;
-    padding: 20px;
+    width: 360px;    
+    padding: 25px;
 }
 
 #exibition-container {
