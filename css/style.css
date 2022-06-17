@@ -13,15 +13,17 @@ main {
 }
 
 #exibition-container {
-    background-color: #FFF;
-    height: 60px;
-    line-height: 60px;
+    display: flex;
+    background-color: #FFF;  
     text-align: end;
+    flex-direction: column;
     padding-right: 20px;
 }
 
 #exibition-container span {
     font-size: 24px;
+    height: 45px;
+    line-height: 45px;
 }
 
 #btn-container {
